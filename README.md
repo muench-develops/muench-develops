@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a backend software engineer and Medium blogger from Germany
-- 🔭 Working on backend projects using C# as my primary language, Python and Golang for experimenting.
-- 🌱 Learning design patterns and AI in depth
+- 💻 Working on backend projects using C# as my primary language, Python and Golang for experimenting.
+- 📗 Learning design patterns and AI in depth
 
 
 
