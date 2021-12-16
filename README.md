@@ -10,6 +10,7 @@ I am a backend software engineer and Medium blogger from Germany
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@justin.muench)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/13893980/thecodentist)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/muench_justin)
+[<img align="left" alt="xing" src="https://img.shields.io/badge/xing-darkcyan.svg?&style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/Justin_Muench/cv)
 
 <br><br>
 ## Expertise
