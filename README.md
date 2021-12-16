@@ -20,5 +20,9 @@ I am a backend software engineer and Medium blogger from Germany
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [What to look for when changing employers?](https://medium.com/@justin.muench/what-i-as-a-developer-would-look-for-when-changing-employers-cb4cd9291413?source=rss-feb470108eb8------2)
+- [What is DDD all about, and how can it help us?](https://medium.com/@justin.muench/what-is-ddd-all-about-and-how-can-it-help-us-ce38761624b5?source=rss-feb470108eb8------2)
+- [I used Rider with CoPilot to build an API.](https://medium.com/@justin.muench/i-used-rider-with-copilot-in-rider-to-build-an-api-42cfd98ce590?source=rss-feb470108eb8------2)
+- [What books do I want for Christmas as a developer?](https://medium.com/@justin.muench/what-books-do-i-want-for-christmas-as-a-developer-60afc6b0ec64?source=rss-feb470108eb8------2)
+- [ML.NET &lpar;Hands-On Machine Learning with ML.NET&rpar; | Part 3](https://medium.com/@justin.muench/ml-net-hands-on-machine-learning-with-ml-net-part-3-9f6364ae9c6c?source=rss-feb470108eb8------2)
 <!-- BLOG-POST-LIST:END -->
