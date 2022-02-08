@@ -21,9 +21,9 @@ I am a backend software engineer and Medium blogger from Germany
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My favorite services as a developer](https://medium.com/@justin.muench/my-favorite-services-as-a-developer-c87d099c7e0e?source=rss-feb470108eb8------2)
 - [Why Do We Need Message Broker?](https://betterprogramming.pub/why-do-we-need-message-broker-7382ce0e46c6?source=rss-feb470108eb8------2)
 - [My advice to new, &lpar;young&rpar; Developers](https://medium.com/@justin.muench/my-advice-to-new-young-developers-3e8100f2a734?source=rss-feb470108eb8------2)
 - [What to look for when changing employers?](https://medium.com/@justin.muench/what-i-as-a-developer-would-look-for-when-changing-employers-cb4cd9291413?source=rss-feb470108eb8------2)
 - [What is DDD all about, and how can it help us?](https://medium.com/@justin.muench/what-is-ddd-all-about-and-how-can-it-help-us-ce38761624b5?source=rss-feb470108eb8------2)
-- [I Used GitHub Copilot to Build a Sentiment Analysis API](https://betterprogramming.pub/i-used-rider-with-copilot-in-rider-to-build-an-api-42cfd98ce590?source=rss-feb470108eb8------2)
 <!-- BLOG-POST-LIST:END -->
