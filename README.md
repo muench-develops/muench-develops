@@ -21,9 +21,9 @@ I am a backend software engineer and Medium blogger from Germany
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Docker?](https://medium.com/codex/what-is-docker-d903b1765c60?source=rss-feb470108eb8------2)
 - [What is TensorFlow?](https://medium.com/@justin.muench/what-is-tensorflow-1b44b84058f1?source=rss-feb470108eb8------2)
 - [Why Do We Need RabbitMQ?](https://betterprogramming.pub/why-do-we-need-rabbitmq-f9f1d99c074c?source=rss-feb470108eb8------2)
 - [Why Do We Need GraphQL?](https://betterprogramming.pub/why-do-we-need-graphql-43ea26d0efc4?source=rss-feb470108eb8------2)
 - [Robotic Process Automation — What is it, and why do we need it?](https://medium.com/@justin.muench/robotic-process-automation-what-is-it-and-why-do-we-need-it-184843844e71?source=rss-feb470108eb8------2)
-- [When and Why Choose a NoSQL Database?](https://betterprogramming.pub/when-and-why-choose-a-nosql-database-1a9aa2e2038e?source=rss-feb470108eb8------2)
 <!-- BLOG-POST-LIST:END -->
