@@ -21,9 +21,9 @@ I am a backend software engineer and Medium blogger from Germany
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ASP.NET Core Sunday NuGet Package Testing #01 — FastEndpoints](https://medium.com/@justin.muench/asp-net-core-sunday-nuget-package-testing-01-fastendpoints-e7229b323183?source=rss-feb470108eb8------2)
 - [.NET Core 101 Unit tests](https://betterprogramming.pub/net-core-101-unit-tests-23daff2d5281?source=rss-feb470108eb8------2)
 - [What is Docker?](https://medium.com/codex/what-is-docker-d903b1765c60?source=rss-feb470108eb8------2)
 - [What is TensorFlow?](https://medium.com/@justin.muench/what-is-tensorflow-1b44b84058f1?source=rss-feb470108eb8------2)
 - [Why Do We Need RabbitMQ?](https://betterprogramming.pub/why-do-we-need-rabbitmq-f9f1d99c074c?source=rss-feb470108eb8------2)
-- [Why Do We Need GraphQL?](https://betterprogramming.pub/why-do-we-need-graphql-43ea26d0efc4?source=rss-feb470108eb8------2)
 <!-- BLOG-POST-LIST:END -->
